@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**paulinavcole/paulinavcole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate of FullStack Academy's Web Development Program
 
-Here are some ideas to get you started:
+## Technical skills:
+- Programming Languages: JavaScript, Python, CSS,  HTML,  Solidity, C
+- Frameworks:  Node.js, Express, React, Tailwind CSS, Bootstrap, Hardhat, Vue.js, Django
+- Query Languages:  PostgreSQL, MySQL 
+- Build Tools:  Vite, Webpack
+- Domains:  frontend development, web development, backend development,  crypto, blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I’m looking for a Software Engineer position.
+
+📫 email: paulinacole.inquries@gmail.com
+
+🌏 Linkedin: linkedin.com/in/paulina-cole-45a23249/ 
