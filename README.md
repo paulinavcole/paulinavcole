@@ -13,4 +13,4 @@ I am a recent graduate of FullStack Academy's Web Development Program
 
 📫 email: paulinacole.inquries@gmail.com
 
-🌏 Linkedin: linkedin.com/in/paulina-cole-45a23249/ 
+🌏 Linkedin: https://www.linkedin.com/in/paulinavcole/
