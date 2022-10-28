@@ -9,7 +9,7 @@ I am a recent graduate of FullStack Academy's Web Development Program
 - Build Tools:  Vite, Webpack
 - Domains:  frontend development, web development, backend development,  crypto, blockchain
 
-💼 Looking to network and connect with other engineers!
+💼 Looking to network and connect with other developers!
 
 📫 email: paulinacole.inquries@gmail.com
 
