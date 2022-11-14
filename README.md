@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a recent graduate of FullStack Academy's Web Development Program
+New York based Software Engineer. 
 
 ## Technical skills:
 - Programming Languages: JavaScript, Python, CSS,  HTML,  Solidity, C
