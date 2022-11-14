@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-New York based Software Engineer. 
+I am a New York based Software Engineer. 
 
 ## Technical skills:
 - Programming Languages: JavaScript, Python, CSS,  HTML,  Solidity, C
