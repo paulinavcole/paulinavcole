@@ -11,6 +11,4 @@ I am a New York based Software Developer.
 
 💼 Looking to network and connect with other developers!
 
-📫 email: paulinacole.inquries@gmail.com
-
 🌏 Linkedin: https://www.linkedin.com/in/paulinavcole/
